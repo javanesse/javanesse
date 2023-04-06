@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @javanesse
-- 🌎 [Visit My Homepage](Https://javanesse.github.io){:target="_blank"}
+- 🌎 [Visit My Homepage](https://javanesse.github.io)
 
 
 
